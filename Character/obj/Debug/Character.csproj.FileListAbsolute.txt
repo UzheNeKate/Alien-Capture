@@ -1,0 +1,6 @@
+C:\D\Game\Character\bin\Debug\Character.exe.config
+C:\D\Game\Character\bin\Debug\Character.exe
+C:\D\Game\Character\bin\Debug\Character.pdb
+C:\D\Game\Character\obj\Debug\Character.csprojAssemblyReference.cache
+C:\D\Game\Character\obj\Debug\Character.exe
+C:\D\Game\Character\obj\Debug\Character.pdb
